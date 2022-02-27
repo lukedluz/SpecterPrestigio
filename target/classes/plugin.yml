@@ -1,0 +1,6 @@
+name: SpecterPrestigio
+version: 1.0
+main: com.lucas.specterprestigio.Main
+author: [Specter]
+commands:
+  prestigio:
